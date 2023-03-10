@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"/>
+
+    <item android:title="Listing Requests"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:id="@+id/receivedListView"/>
+
+    <item android:title="Past Activities"
+        android:icon="@drawable/ic_baseline_history_edu_24"
+        android:id="@+id/pastActivities"/>
+</menu>

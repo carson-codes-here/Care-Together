@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MTD319_ECA_CARSONTHAM</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="listingBtn"><u>View All Listings</u></string>
+
+</resources>
